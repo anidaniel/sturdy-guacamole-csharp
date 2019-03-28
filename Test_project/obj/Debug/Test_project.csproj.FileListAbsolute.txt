@@ -1,0 +1,7 @@
+D:\Projects\C# codeBlocks\Test_project\Test_project\bin\Debug\Test_project.exe.config
+D:\Projects\C# codeBlocks\Test_project\Test_project\bin\Debug\Test_project.exe
+D:\Projects\C# codeBlocks\Test_project\Test_project\bin\Debug\Test_project.pdb
+D:\Projects\C# codeBlocks\Test_project\Test_project\obj\Debug\Test_project.csprojAssemblyReference.cache
+D:\Projects\C# codeBlocks\Test_project\Test_project\obj\Debug\Test_project.csproj.CoreCompileInputs.cache
+D:\Projects\C# codeBlocks\Test_project\Test_project\obj\Debug\Test_project.exe
+D:\Projects\C# codeBlocks\Test_project\Test_project\obj\Debug\Test_project.pdb
